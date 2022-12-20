@@ -1,6 +1,6 @@
 const quizData = [
   {
-    question: 'Which of the following city is the capital of Japan?',
+    question: 'Which of the following cities is the capital of Japan?',
     a: 'Beijing',
     b: 'Lishui',
     c: 'Jinyun',
